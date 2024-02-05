@@ -1,0 +1,47 @@
+body{
+    background-color: #ffffe6;
+    padding-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo-inicial h2{
+    background-color: #ff7212;
+    font-size: 30px;
+    color: white;
+   
+}
+
+.titulo-inicial h1{
+    font-size: 50px;
+}
+
+.titulo-inicial h4{
+    color: #484848;
+    font-size: 13px;
+    padding-bottom: 30px;
+}
+
+.texto{
+    width: 800px;
+}
+
+.texto p{
+    color: #484848;
+    line-height: 20px;
+}
+
+.texto figcaption{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto ul{
+    list-style-type: none;
+    line-height: 25px;
+    padding: 0px;
+}
+
+.texto a{
+    color: #484848;
+    line-height: 20px;
+    
+}
